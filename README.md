@@ -4,7 +4,7 @@
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Cloud Security Monitoring and Threat Detection System</b>
-  - [Azure Sentinel (SIEM) Live Honeypot](https://github.com/jcongmon/)
+  - [Azure Sentinel (SIEM) Live Honeynet](https://github.com/jcongmon/soc-honeypot)
 - <b>OpenVAS Vulnerability Management</b>
 - <b>Virtual Red Team Homelab</b>
 
