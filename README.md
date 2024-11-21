@@ -8,6 +8,7 @@
 - <b>Vulnerability Management and Remediation</b>
   - [Nessus Vulnerability Management](https://github.com/jcongmon/nessus-vuln-mgmt)
 - <b>Virtual Red Team Homelab</b>
+  - [HackTheBox](https://github.com/jcongmon/htb)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
