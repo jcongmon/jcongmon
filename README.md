@@ -5,7 +5,8 @@
 
 - <b>Cloud Security Monitoring and Threat Detection System</b>
   - [Azure Sentinel (SIEM) Live Honeynet](https://github.com/jcongmon/soc-honeypot)
-- <b>OpenVAS Vulnerability Management</b>
+- <b>Vulnerability Management and Remediation</b>
+  - [OpenVAS Vulnerability Management](https://github.com/jcongmon/)
 - <b>Virtual Red Team Homelab</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
