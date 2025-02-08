@@ -7,6 +7,8 @@
   - [Azure Sentinel (SIEM) Live Honeynet](https://github.com/jcongmon/soc-honeypot)
 - <b>Vulnerability Management and Remediation</b>
   - [Nessus Vulnerability Management](https://github.com/jcongmon/nessus-vuln-mgmt)
+- <b>Cybersecurity Forensics and Threat Analysis</b>
+  - [CyberDefenders](https://github.com/jcongmon/ccd)
 - <b>Virtual Red Team Homelab</b>
   - [HackTheBox](https://github.com/jcongmon/htb)
 
